@@ -1,0 +1,192 @@
+body {
+    margin: 0;
+    background:url("../img/pattern.png");
+
+font-family:Tahoma;
+  line-height: 1.5 ;
+    font-size: 18px;
+}
+
+
+
+
+.card {
+    width: 400px;
+  margin: 180px 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 50px 100px #e00e0e;
+    border-radius: 100px;
+}
+
+.card-pfoto {
+    display: block;
+    width: 200px;
+  height: 200px;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #4d1f1f;
+}
+
+
+
+
+
+
+
+.card-iran {
+    width: 400px;
+  margin: 20px 80px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 50px 100px #e00e0e;
+    border-radius: 100px;
+}
+.card-pfotoiran {
+    display: block;
+    width: 200px;
+  height: 200px;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+.card-titleiran {
+    font-size: 20px;
+    text-align: center;
+    color: #4d1f1f;
+}
+
+
+
+
+
+
+.card {
+    width: 400px;
+  margin: 150px 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 50px 100px #e00e0e;
+    border-radius: 100px;
+}
+
+.card-pfoto {
+    display: block;
+    width: 200px;
+  height: 200px;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #4d1f1f;
+}
+
+
+
+
+
+.card-indo {
+    width: 400px;
+  margin: 140px 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 50px 100px #e00e0e;
+    border-radius: 100px;
+}
+
+.card-pfotoindo {
+    display: block;
+    width: 200px;
+  height: 200px;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+
+.card-titleindo {
+    font-size: 20px;
+    text-align: center;
+    color: #4d1f1f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.search-box {
+    display: flex;
+    position: absolute;
+    background-color: #2f3640;
+    height: 40px;
+    border-radius: 40px;
+    padding: 40px;
+}
+
+.search-bth {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f0f0f0;
+    widows: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #2f3640;
+    text-decoration: none;
+}
+
+.search-txt {
+    
+    border: none;
+    outline: none;
+    background: none;
+    padding: 0;
+    color: #fff;
+    font-size: 16px;
+    transition: .4s;
+    line-height: 40px;
+    width: 0;
+}
+
+
+.search-box:hover .search-txt {
+    width: 240px;
+    padding: 0 6px;
+}
+
+.search-box:hover .search-brn {
+    background-color: #2b2b2b;
+}
